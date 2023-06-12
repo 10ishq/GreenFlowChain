@@ -1,0 +1,17 @@
+{
+  "name": "flow-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "ethers": "5.4",
+    "mongoose": "^7.2.3",
+    "solc": "^0.8.20"
+  }
+}
