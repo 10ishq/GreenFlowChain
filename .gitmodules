@@ -1,0 +1,12 @@
+[submodule "ProductBackendMongoDB"]
+    path = ProductBackendMongoDB
+    url = https://github.com/10ishq/GreenFlowChain-RewardBackend
+
+[submodule "ReactProductManager"]
+    path = ReactProductManager/product-manager
+    url = https://github.com/10ishq/productCreater-GFB
+    
+[submodule "RewardClaim"]
+    path = RewardClaim-Frontend/reflowchain-claim-reward
+    url = https://github.com/10ishq/rewardclaim-GFB
+    
